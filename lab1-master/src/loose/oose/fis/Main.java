@@ -39,6 +39,6 @@ public class Main {
         pc2.adaugaProcesor(c3);
 
         System.out.println(pc2.proceseaza(documente));
-	System.out.println("Am efectuat o modificare");
+	System.out.println("Modificarea 2");
     }
 }
